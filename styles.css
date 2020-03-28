@@ -15,6 +15,11 @@ body {
   align-items: center;
 }
 
+.rick-logo{
+  height: 200px;
+  width: 500px;
+}
+
 .Header a {
   text-decoration: none;
   color: white;
