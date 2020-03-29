@@ -4,7 +4,7 @@ const Header = () => {
       <div class="Header-logo">
         <h1>
           <a href="/SPA-JS-Vanilla/">
-            <img src='https://logos.wikia.com/wiki/File:Rick_and_Morty.svg' class='rick-logo'>
+            <img src='./src/Rick_and_Morty.svg' class='rick-logo'>
           </a>
         </h1>
       </div>
