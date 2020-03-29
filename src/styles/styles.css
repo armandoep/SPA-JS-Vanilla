@@ -178,7 +178,7 @@ body {
     }
 }
 
-@media only screen and (max-width: 400px){
+@media only screen and (max-width: 450px){
   .Header-main {
     display: flex;
     justify-content: space-between;
